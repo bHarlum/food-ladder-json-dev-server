@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "id": 1 ,
+            "name": "Bryce",
+            "email": "bryce.test@gmail.com",
+            "password": "testing123"
+        },
+        {
+            "id": 2 ,
+            "name": "Clem",
+            "email": "clem.test@gmail.com",
+            "password": "testing123"
+        },
+        {
+            "id": 3 ,
+            "name": "Tuey",
+            "email": "tuey.test@gmail.com",
+            "password": "testing123"
+        }
+    ],
+    "accounts": [
+        {
+            "id": 1,
+            "projectName": "project-syd",
+            "email": "syd.test@gmail.com",
+            "accounts": [
+                {
+                    "name": "tom-syd.test",
+                    "password": "testing123"
+                }
+            ]
+        }
+    ]
+}
